@@ -10,3 +10,7 @@ Founders are Charles Cadieu & Kilian Koepsell
 Caption Health, Inc. was created to improve patient care by making access to ultrasound technologies more accessible. Along with easier access to ultrasounds, Caption Health, Inc. is using AI to better guide clinicians to avoid poor image quality and misdiagnosis. 
 
 Their current focus is on cardiac ultrasounds and lung ultrasounds. 
+
+The company has received multiple rounds of funding since being founded. They originally started with Grant funding on May 12, 2014. Then they moved onto Seed funding on January 30th, 2015. They recieved a second round of Grant funding on April 13th, 2016. However, their most recent funding has been Series B funding which closed at $53 million. 
+
+Series B funding is when a company has met certain milestones past their intial startup phase.
