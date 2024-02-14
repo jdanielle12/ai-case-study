@@ -7,7 +7,7 @@ Caption Health, Inc.
 Founded November 12, 2013.
 Founders are Charles Cadieu & Kilian Koepsell 
 
-Caption Health, Inc. was created to improve patient care by making access to ultrasound technologies more accessible. Along with easier access to ultrasounds, Caption Health, Inc. is using AI to better guide clinicians to avoid poor image quality and misdiagnosis. Since being founded Caption Health, Inc. has partnered with a company called Portamedic. 
+Caption Health, Inc. was created to improve patient care by making access to ultrasound technologies more accessible with the hopes of catching symptoms such as heart disease and heart failure in patients earlier. Along with easier access to ultrasounds, Caption Health, Inc. is using AI to better guide clinicians to avoid poor image quality and misdiagnosis. Since being founded Caption Health, Inc. has partnered with a company called Portamedic. 
 
 Portamedic, Inc. is one of the largest companies that provides in-home medical services and mobile technicians. Using their partnership, Caption Health, Inc. allows Portamedic, Inc. to use their AI technology. 
 
