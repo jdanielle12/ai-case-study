@@ -4,8 +4,7 @@ A personal case study of how AI is affecting the medical field.
 # AI in Medicine
 
 Caption Health, Inc.
-Founded November 12, 2013.
-Founders are Charles Cadieu & Kilian Koepsell 
+Founded November 12, 2013 by Charles Cadieu & Kilian Koepsell 
 
 Caption Health, Inc. was created to improve patient care by making access to ultrasound technologies more accessible with the hopes of catching symptoms such as heart disease and heart failure in patients earlier. Along with easier access to ultrasounds, Caption Health, Inc. is using AI to better guide clinicians to avoid poor image quality and misdiagnosis. Since being founded Caption Health, Inc. has partnered with a company called Portamedic. 
 
