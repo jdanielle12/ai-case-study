@@ -11,7 +11,7 @@ Caption Health, Inc. was created to improve patient care by making access to ult
 
 Portamedic, Inc. is one of the largest companies that provides in-home medical services and mobile technicians. Using their partnership, Caption Health, Inc. allows Portamedic, Inc. to use their AI technology. 
 
-Their current focus is on cardiac ultrasounds and lung ultrasounds. 
+Together both companies are focusing their efforts on cardiac ultrasounds and lung ultrasounds. However, the lung ultrasounds are a newer development. 
 
 The company has received multiple rounds of funding since being founded. They originally started with Grant funding on May 12, 2014. Then they moved onto Seed funding on January 30th, 2015. They recieved a second round of Grant funding on April 13th, 2016. However, their most recent funding has been Series B funding which closed at $53 million. 
 
