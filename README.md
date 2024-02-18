@@ -6,6 +6,8 @@ A personal case study of how AI is affecting the medical field.
 Caption Health, Inc.
 Founded November 12, 2013 by Charles Cadieu & Kilian Koepsell 
 
+When Caption Health, Inc. was first founded, it was the first and only AI-guided ultrasound technology. According to [https://captionhealth.com], “Our vision is to move specialty diagnostics and decision making to the point of care for every patient exam. We are delivering AI systems that empower healthcare providers with new capabilities to acquire and interpret ultrasound exams.”.
+
 Caption Health, Inc. was created to improve patient care by making access to ultrasound technologies more accessible with the hopes of catching symptoms such as heart disease and heart failure in patients earlier. Along with easier access to ultrasounds, Caption Health, Inc. is using AI to better guide clinicians to avoid poor image quality and misdiagnosis. Since being founded Caption Health, Inc. has partnered with a company called Portamedic and was bought out by GE Health Care in February 2023 for $127 million. 
 
 Portamedic, Inc. is one of the largest companies that provides in-home medical services and mobile technicians. Using their partnership, Caption Health, Inc. allows Portamedic, Inc. to use their AI technology. 
