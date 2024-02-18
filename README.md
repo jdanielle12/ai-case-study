@@ -1,10 +1,6 @@
-# ai-case-study
-A personal case study of how AI is affecting the medical field. 
-
 # AI in Medicine
-
-Caption Health, Inc.
-Founded November 12, 2013 by Charles Cadieu & Kilian Koepsell 
+## Caption Health, Inc.
+### Founded November 12, 2013 by Charles Cadieu & Kilian Koepsell 
 
 When Caption Health, Inc. was first founded, it was the first and only AI-guided ultrasound technology. According to [https://captionhealth.com], “Our vision is to move specialty diagnostics and decision making to the point of care for every patient exam. We are delivering AI systems that empower healthcare providers with new capabilities to acquire and interpret ultrasound exams.”.
 
@@ -19,5 +15,3 @@ Together both companies are focusing their efforts on perfecting their portable 
 The company has received multiple rounds of funding since being founded. They originally started with Grant funding on May 12, 2014. Then they moved onto Seed funding on January 30th, 2015. They recieved a second round of Grant funding on April 13th, 2016. However, their most recent funding has been Series B funding which closed at $53 million. 
 
 Series B funding is when a company has met certain milestones past their intial startup phase.
-
-# Business Activities
